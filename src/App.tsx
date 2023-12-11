@@ -1,7 +1,8 @@
 
 function App() {
   return (
-    <div>Hellos</div>  );
+    <div>Hello</div>
+  );
 }
 
 export default App;
